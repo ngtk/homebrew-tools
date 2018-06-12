@@ -8,6 +8,6 @@ class XcodeTemplate < Formula
   sha256 "ff563b738862681a7b073e6edf1a203a5a627b0fb84b2797fb1da6aafc2fc4d0"
 
   def install
-    bin.install "xcode-template"
+    bin.install "xctemplate"
   end
 end
