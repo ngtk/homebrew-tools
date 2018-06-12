@@ -4,7 +4,7 @@ class XcodeTemplate < Formula
   desc "👩‍💻xcode-template makes it easy to create a template and share with your project"
   homepage "https://github.com/ngtk/xcode-template"
   version VERSION
-  url "https://github.com/ngtk/xcode-template/releases/download/v#{VERSION}/xcode-template_#{VERSION}_darwin_386.zip"
+  url "https://github.com/ngtk/xcode-template/releases/download/v#{VERSION}/xctemplate_#{VERSION}_darwin_386.zip"
   sha256 "ff563b738862681a7b073e6edf1a203a5a627b0fb84b2797fb1da6aafc2fc4d0"
 
   def install
